@@ -1,0 +1,16 @@
+.center {text-align: center}
+.cent {display: block;
+       margin-left: auto;
+       margin-right: auto;
+       width: 40%;}
+
+p  {font-size: 18px}
+    #red {color:red}
+    #blue {color:blue}
+    #green {color: green}
+    #big {font-size: 28px;}
+    #tiny {font-size: 8px;}
+    #family {font-family: cursive;}
+    .multiple {font-size: 28px;color: orange; font-weight: bold; } 
+    .styledFont {font-family: cursive; color: palevioletred;font-weight: bolder}
+    #styledImage {border-style: dotted; border-color: red;border-width: 2vw; }

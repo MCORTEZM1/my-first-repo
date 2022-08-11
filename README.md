@@ -1,13 +1,16 @@
+
+# A Tribute to Chester Bennington 🙌🎤
 # :nerd_face: my-first-repo :man_student: 
+
 
 ## **Description**
 
 - This is my first push to github from when I first began my coding journey...
-- HTML contains a super basic layout that is a tribut to Chester Bennington, the late lead singer of Linkin Park. 
+- HTML contains a super basic layout that is a tribute to Chester Bennington, the late lead singer of Linkin Park. 
 - The motivation behind this was to pay a tribute, build my understanding of HTML.
 - While building this site, I began my first steps with HTML while paying tribute to one of my favorite artists. 
 - This README is here to serve the purpose of having a professional ReadME for all repos.
-- Again, thank you for reading this far into it, this is simply my first attempt at pushing HTML to Github. 
+- Again, thank you for reading this far into it, this is simply my first attempt at pushing HTML to Github.
 - Please let me know what you think :smile:
 
 ## **Table of Contents** 

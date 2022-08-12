@@ -42,14 +42,9 @@ This project was built by Michael Cortez-Mejia
 
 To see more info regarding this license, please visit https://choosealicense.com/licenses/mit/
 
-
-
-
-
 ## **How to Contribute**
 
-:handshake:  If you would like to add/contribute to the project, feel free to fork from GitHub @MCORTEZM1 
-Or click here: https://github.com/MCORTEZM1/NeoTech_News
+Feel free to branch from the code and make changes! 
 
 ## **Questions / Contact Me**
 
